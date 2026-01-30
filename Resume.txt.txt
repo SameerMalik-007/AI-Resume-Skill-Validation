@@ -1,5 +1,5 @@
-John Doe
-Email: SameerMalik007@gmail
+Student
+Email: Student007@gmail
 
 Skills:
 Python
