@@ -1,0 +1,11 @@
+John Doe
+Email: SameerMalik007@gmail
+
+Skills:
+Python
+Machine Learning
+SQL
+Data Analysis
+
+Experience:
+Worked on data science projects using Python.
