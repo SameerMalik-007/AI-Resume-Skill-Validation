@@ -26,7 +26,7 @@ A simple and user-friendly desktop application built using Python (Tkinter) and 
 
 ## 🗂️ Project Structure
 
-├├── main.py              # Entry point of the application (Tkinter GUI)
+├── main.py              # Entry point of the application (Tkinter GUI)
 ├── skill_matcher.py     # Handles AI skill extraction and matching logic
 ├── requirements.txt    # Required Python libraries
 ├── README.md           # Project documentation (this file)
@@ -56,9 +56,9 @@ python, machine learning, sql
 - View the skill match score and matched skills
 
 # Group Members
-Name	Roll Number
-Sameer Malik	F2023105007
-M Huzaifa Mahmood	F2023105004
+# Name	Roll Number
+- Sameer Malik	F2023105007
+- M Huzaifa Mahmood	F2023105004
 
 # Screenshots
 You can find all screenshots in the /assets/screenshots/ folder, and they're also included in the project report.
