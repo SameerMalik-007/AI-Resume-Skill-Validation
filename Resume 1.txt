@@ -1,0 +1,59 @@
+Sameer Malik
+
+
+Contact Info :
+
+
+Email: f2023105007@umt.edu.pk
+
+Phone : 03354710077
+
+GitHub : SameerMalik-007
+
+
+
+Objective :
+
+To secure a challenging position in software development where i can utilize my coding skills. 
+
+
+Education :
+
+- BS IT, University Of Management & Technology (Undergraduate)
+
+
+Skills : 
+
+- Programming : Python , Java , C++
+
+- Web developement : HTML , CSS , Java Script
+
+- Databases : SQL , MongoDB
+
+- Tools : Git , VS code
+
+Projects :
+
+
+- E-commerce Website : ( Full Stack website using Django and MongoDB )
+
+- Chat Application : ( Built a real time chat app using Node.js
+
+
+
+Experience :
+
+- Software House ( Worked on ML project )
+
+
+
+Certification :
+
+- Python Developer
+
+
+Languages :
+
+- English
+
+- Urdu
